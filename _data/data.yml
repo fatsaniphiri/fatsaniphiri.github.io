@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: fatsaniphiri@yahoo.com
-    phone: 012 345 6789
+    #phone: 012 345 6789
     timezone: Cape Town Timezone
     citizenship: Zimbabwean
     #website: blog.webjeda.com #do not add http://
@@ -69,7 +69,7 @@ education:
     info:
       - degree: MSc in Computer Science
         university: University of Cape Town, South Africa
-        time: 2021 - 
+        time: 2021 - Ongoing
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -133,43 +133,39 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+        - name: Data Science Professional Certificate
+          start: 2022
+          end: 2023
+          organization: IBM Skill Network - Coursera
+          #credentialid: 111-222
+          credentialurl: https://www.credly.com/users/fatsani-phiri/badges
+          credentialname: Credly
+          #details: |
+          #  Details about cert. Lorem ipsum dolor sit amet, consectetur 
+          #  adipiscing elit.
+          #  Nullam eget orci purus. Nullam ultrices neque nibh. 
+          #  Aenean fermentum, felis vulputate suscipit accumsan, 
+          #  sem enim bibendum augue, sed convallis arcu lacus at dui. 
+          #  Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+          #  Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+          #  Praesent venenatis erat non augue suscipit consectetur. 
             
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+        - name: Applied Data Science Lab
+          start: 2022
+          end: 2022
+          organization: WorldQuant University
+          #credentialid: 111-222
+          credentialurl: https://www.credly.com/badges/82378ba4-709e-43d8-9237-114c93ea2f0a
+          credentialname: Credly
+          #details: |
+          #  Older certification. Lorem ipsum dolor sit amet, consectetur 
+          #  adipiscing elit.
+          #  Nullam eget orci purus. Nullam ultrices neque nibh. 
+          #  Aenean fermentum, felis vulputate suscipit accumsan, 
+          #  sem enim bibendum augue, sed convallis arcu lacus at dui. 
+          #  Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+          #  Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+          #  Praesent venenatis erat non augue suscipit consectetur. 
         
 projects:
     title: Projects
