@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Fatsani H Phiri
-    tagline: Full Stack Developer
+    tagline: Masters Student Computer Science
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -92,43 +92,39 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Support Engineer
+        time: October 2020 - April 2021
+        company: Simuone, Harare
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Support and representation to customers. Testing of systems, and report
+          generation of metrics. Troubleshooting bugs and maintaining integrations. Adding
+          new features to customer product offerings, and updating new patches.
+          Maintaining data feeds and Network analysis. Developing middleware and scripts
+          for task automation.
+            #- Bullet point
+            #- Bullet point
+      - role: Developer
+        time: February 2018 - June 2019
+        company: Golix, Harare
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Carried out requirements gathering. Wrote code to satisfy requirements and good
+          code standards. Attended scrum meetings and worked in agile sprints for function
+          releases. Carried out unit tests. Made recommendations by doing system analysis.
+          Researched new technologies and solutions. Wrote user guides for software
+          usage and training purposes. Worked with UX designers and system architects
+          during the life cycle of projects. Presented new systems and office procedures to
+          improve the working environment.
+            #- Bullet point
+            #- Bullet point
+      - role: Customer Service Representative
+        time: 2012 - 2018
+        company: Econet Wireless, Bulawayo
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Carried out Report generation and analysis of shop traffic, sales, and customer
+          satisfaction trends. Worked in assisting customers to achieve satisfaction and offer
+          support. Managed Shop inventory, sales and financial reporting.
+            #- Bullet point
+            #- Bullet point
 
 certifications:
       title: Certifications
