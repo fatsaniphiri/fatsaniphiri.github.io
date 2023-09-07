@@ -56,14 +56,17 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Masters student at the University of Cape Town, South Africa,
+      studying Computer Science. I have focused on Artificial Intelligence
+      High Performance Computing.
+
+      Supervisor: Prof Hussein Suleman
+      Research Topic: Using machine learning to supplement correctness 
+      reports from Automated Program Marking Systems
+      # Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -170,56 +173,73 @@ projects:
     assignments:
       - title: Introduction to Image Processing and Computer Vision
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Segmenting single-view 3D point clouds with Machine Learning. 
+
+                  In this project, we aim to automate the classification and segmentation of points in 3D point
+                  clouds using the Machine Learning Classification techniques namely Random Forest, SVM
+                  and K-Nearest Neighbor. Using laser scanners detailed scenes of surfaces are captured and
+                  the information is stored in the form of points x,y,z and may also include the colour
+                  component red, green and blue. These colours are used to illustrate the label or class of a
+                  given point.
+                  In this experiment we will leverage the properties of the surrounding area of a point, to
+                  generate classification models that will label each point in the 3D point cloud. These
+                  properties are called geometric features. The label keys are 1: man-made terrain, 2: natural
+                  terrain, 3: high vegetation, 4: low vegetation, 5: buildings, 6: hardscape, 7: scanning
+                  artefacts, 8: cars."
 
       - title: Evolutionary Computation
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Meta-heuristics are a sub-field of biologically inspired artificial intelligence and general 
+                  algorithmic frameworks that can be applied to different optimisation problems with relative 
+                  few modifications to adapt them to a specific problem. This course examines the theory and 
+                  application of several different meta-heuristic methods, including: iterated local search, tabu search, evolutionary algorithms, ant colony optimisation, simulated annealing, and particle swarm optimisation. "
 
       - title: Intelligent Systems
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: " This Computer Science masters course provides an introduction to
+                  designing and implementing intelligent systems, using Artificial Intelligence techniques.
+                  Bayesian networks and dynamic Bayesian networks, developing Belief Desire Intention agents, Deep Neural Networks"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: A syntax directed compiler for Algol 60
+#       link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -232,16 +252,11 @@ skills:
         level: 70%
 
       - name: Mysql
-        level: 98%
+        level: 65%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
         level: 60%
 
+      
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
