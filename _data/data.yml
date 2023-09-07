@@ -65,7 +65,6 @@ career-profile:
       Supervisor: Prof Hussein Suleman
       Research Topic: Using machine learning to supplement correctness 
       reports from Automated Program Marking Systems
-      # Second paragraph if required.
 
 education:
     title: Education
@@ -74,24 +73,17 @@ education:
         university: University of Cape Town, South Africa
         time: 2021 - Ongoing
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Masters by Coursework and Dissertation involves a first year of 
+          coursework and a second year during which a mini-dissertation is 
+          completed.
+
       - degree: BSc Honours in Computer Science
         university: National University of Science and Technology, Zimbabwe
         time: 2006 - 2010
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Programme consisted of thirty-six taught modules, an Industrial 
+          Attachment module in the third year and a software project in the final year.
+
 experiences:
     title: Experiences
     info:
