@@ -136,7 +136,7 @@ certifications:
           end: 2023
           organization: IBM Skill Network - Coursera
           #credentialid: 111-222
-          credentialurl: https://www.credly.com/users/fatsani-phiri/badges
+          credentialurl: www.credly.com/users/fatsani-phiri/badges
           credentialname: Credly
           #details: |
           #  Details about cert. Lorem ipsum dolor sit amet, consectetur 
@@ -153,7 +153,7 @@ certifications:
           end: 2022
           organization: WorldQuant University
           #credentialid: 111-222
-          credentialurl: https://www.credly.com/badges/82378ba4-709e-43d8-9237-114c93ea2f0a
+          credentialurl: www.credly.com/badges/82378ba4-709e-43d8-9237-114c93ea2f0a
           credentialname: Credly
           #details: |
           #  Older certification. Lorem ipsum dolor sit amet, consectetur 
@@ -244,10 +244,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python, R
         level: 80%
 
-      - name: Machinel learning
+      - name: Machinel learning, Deep learning
         level: 80%
 
       - name: Excel
@@ -257,7 +257,7 @@ skills:
         level: 80%
 
       - name: Tableau
-        level: 80%
+        level: 60%
       
 #footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
